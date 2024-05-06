@@ -1,1 +1,0 @@
-Various AI course material
